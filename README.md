@@ -4,6 +4,7 @@ Spelunky save files are 3224 bytes large, comprising 806 32-bit (4-byte) integer
 
 If we treat the save file as a byte array, here's the index where each value of interest is located.
 
+|---|---|
 |Amount of plays|0|
 |Amount of deaths|4|
 |Normal wins|8|
@@ -51,7 +52,7 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Creature discovered: Tiki man|1368|
 |Creature discovered: (Blue) frog|1372|
 |Creature discovered: Fire (orange) frog|1376|
-|Creature discovered: Gaint frog|1380|
+|Creature discovered: Giant frog|1380|
 |Creature discovered: Mantrap|1384|
 |Creature discovered: Piranha|1388|
 |Creature discovered: Old bitey|1392|
@@ -172,7 +173,7 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Kill count: Monkeys  |2716|
 |Kill count: Alien lords |2720|
 |Kill count: Ghost |2724|
-|Kill count: Gaint spiders |2728|
+|Kill count: Giant spiders |2728|
 |Kill count: Jiang shis |2732|
 |Kill count: Vampires |2736|
 |Kill count: Fire (orange) frogs |2740|
@@ -192,7 +193,7 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Kill count: Bacterium |2796|
 |Kill count: Cobra |2800|
 |Kill count: Spinner spiders |2804|
-|Kill count: Gaint frogs |2808|
+|Kill count: Giant frogs |2808|
 |Kill count: Mammoths |2812|
 |Kill count: Alien tanks |2816|
 |Kill count: Tiki man |2820|
@@ -228,7 +229,7 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Death count: Monkeys|2940|
 |Death count: Alien lords|2944|
 |Death count: Ghost|2948|
-|Death count: Gaint spiders|2952|
+|Death count: Giant spiders|2952|
 |Death count: Jiang shis|2956|
 |Death count: Vampires|2960|
 |Death count: Fire (orange) frogs|2964|
@@ -248,7 +249,7 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Death count: Bacteriums|3020|
 |Death count: Cobras|3024|
 |Death count: Spinner spiders|3028|
-|Death count: Gaint frogs|3032|
+|Death count: Giant frogs|3032|
 |Death count: Mammoths|3036|
 |Death count: Alien tanks|3040|
 |Death count: Tiki man|3044|
