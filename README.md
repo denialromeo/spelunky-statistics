@@ -4,6 +4,7 @@ Spelunky save files are 3224 bytes large, comprising 806 32-bit (4-byte) integer
 
 If we treat the save file as a byte array, here's the index where each value of interest is located.
 
+|Value of interest|Byte Position|
 |---|---|
 |Amount of plays|0|
 |Amount of deaths|4|
