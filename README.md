@@ -6,27 +6,15 @@ If we treat the save file as a byte array, here's the index where each value of 
 
 |Value of interest|Byte Position|
 |---|---|
-|Amount of plays|0|
-|Amount of deaths|4|
-|Normal wins|8|
-|Hell wins|12|
-|Related to deathmatch unlocks|16|
-|Related to deathmatch unlocks|20|
-|Related to deathmatch unlocks|24|
-|High score|28|
-|Fastest time (ms)|32|
-|Average score|36|
-|Level before last death|40|
-|Special level before death|44|
-|Score before death|48|
-|Killed by|52|
-|Items before death|56|
-|Items before death|60|
-|Items before death|64|
-|Items before death|68|
-|Cave unlocked? (0 - 2)|536|
-|Shortcuts unlocked (0 - 6)|540|
-|Second favor completed|544|
+|Total Plays|0|
+|Total Deaths|4|
+|Normal Wins|8|
+|Hell Wins|12|
+|High Score|28|
+|Fastest Time (ms)|32|
+|Average Score|36|
+|Level Before Last Death|40|
+|Score Before Last Death|48|
 |Place discovered: Mines|1060|
 |Place discovered: Jungle|1064|
 |Place discovered: Ice caves|1068|
