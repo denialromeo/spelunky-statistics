@@ -15,273 +15,265 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Average Score|36|
 |Level Before Last Death|40|
 |Score Before Last Death|48|
-|Place discovered: Mines|1060|
-|Place discovered: Jungle|1064|
-|Place discovered: Ice caves|1068|
-|Place discovered: Temple|1072|
-|Place discovered: Hell|1076|
-|Place discovered: Haunted castle|1080|
-|Place discovered: Black market|1084|
-|Place discovered: Worm|1088|
-|Place discovered: Mothership|1092|
-|Place discovered: City of gold|1096|
-|Creature discovered: Snake|1316|
-|Creature discovered: Cobra|1320|
-|Creature discovered: Bat|1324|
-|Creature discovered: Spider|1328|
-|Creature discovered: Spinner spider|1332|
-|Creature discovered: Giant spider|1336|
-|Creature discovered: Skeleton|1340|
-|Creature discovered: Scorpion|1344|
-|Creature discovered: Caveman|1348|
-|Creature discovered: Damsel|1352|
-|Creature discovered: Shopkeeper|1356|
-|Creature discovered: Tunnelman|1360|
-|Creature discovered: Scarab|1364|
-|Creature discovered: Tiki man|1368|
-|Creature discovered: (Blue) frog|1372|
-|Creature discovered: Fire (orange) frog|1376|
-|Creature discovered: Giant frog|1380|
-|Creature discovered: Mantrap|1384|
-|Creature discovered: Piranha|1388|
-|Creature discovered: Old bitey|1392|
-|Creature discovered: Killer bee|1396|
-|Creature discovered: Queen bee|1400|
-|Creature discovered: Snail|1404|
-|Creature discovered: Monkey|1408|
-|Creature discovered: Golden monkey|1412|
-|Creature discovered: Jiang shi|1416|
-|Creature discovered: Green knight|1420|
-|Creature discovered: Black knight|1424|
-|Creature discovered: Vampire|1428|
-|Creature discovered: Ghost|1432|
-|Creature discovered: Bacterium|1436|
-|Creature discovered: Worm egg|1440|
-|Creature discovered: Worm baby|1444|
-|Creature discovered: Yeti|1448|
-|Creature discovered: Yeti king|1452|
-|Creature discovered: Mammoth|1456|
-|Creature discovered: Alien|1460|
-|Creature discovered: Ufo|1464|
-|Creature discovered: Alien tank|1468|
-|Creature discovered: Alien lord|1472|
-|Creature discovered: Alien queen|1476|
-|Creature discovered: Hawk man|1480|
-|Creature discovered: Croc man|1484|
-|Creature discovered: Magma man|1488|
-|Creature discovered: Scorpion fly|1492|
-|Creature discovered: Mummy|1496|
-|Creature discovered: Anubis|1500|
-|Creature discovered: Anubis II|1504|
-|Creature discovered: Olmec|1508|
-|Creature discovered: Vlad|1512|
-|Creature discovered: Imp|1516|
-|Creature discovered: Devil|1520|
-|Creature discovered: Succubus|1524|
-|Creature discovered: Horse head|1528|
-|Creature discovered: Ox face|1532|
-|Creature discovered: King yama|1536|
-|Item discovered: Rope pile|1572|
-|Item discovered: Bomb bag|1576|
-|Item discovered: Bomb box|1580|
-|Item discovered: Spectacles|1584|
-|Item discovered: Climbing gloves|1588|
-|Item discovered: Pitchers mitt|1592|
-|Item discovered: Spring shoes|1596|
-|Item discovered: Spike shoes|1600|
-|Item discovered: Paste|1604|
-|Item discovered: Compass|1608|
-|Item discovered: Mattock|1612|
-|Item discovered: Boomerang|1616|
-|Item discovered: Machete|1620|
-|Item discovered: Crysknife|1624|
-|Item discovered: Web gun|1628|
-|Item discovered: Shotgun|1632|
-|Item discovered: Freeze ray|1636|
-|Item discovered: Plasma cannon|1640|
-|Item discovered: Camera|1644|
-|Item discovered: Teleporter|1648|
-|Item discovered: Parachute|1652|
-|Item discovered: Cape|1656|
-|Item discovered: Jetpack|1660|
-|Item discovered: Shield|1664|
-|Item discovered: Royal jelly|1668|
-|Item discovered: Idol|1672|
-|Item discovered: Kapala|1676|
-|Item discovered: Udjat eye|1680|
-|Item discovered: Ankh|1684|
-|Item discovered: Hedjet|1688|
-|Item discovered: Sceptre|1692|
-|Item discovered: Book of the death|1696|
-|Item discovered: Vlad's cape|1700|
-|Item discovered: Vlad's amulet|1704|
-|Trap discovered: Spike|1828|
-|Trap discovered: Arrow trap|1832|
-|Trap discovered: Powder box|1836|
-|Trap discovered: Boulder|1840|
-|Trap discovered: Tiki trap|1844|
-|Trap discovered: Acid|1848|
-|Trap discovered: Spring|1852|
-|Trap discovered: Mine|1856|
-|Trap discovered: Turret|1860|
-|Trap discovered: Forcefield|1864|
-|Trap discovered: Crush trap|1868|
-|Trap discovered: Ceiling trap|1872|
-|Trap discovered: Spike ball|1876|
-|Trap discovered: Lava|1880|
-|Character unlock: Yang|2596|
-|Character unlock: Meat Boy|2600|
-|Character unlock: Yellow|2604|
-|Character unlock: The Jungle Warrior|2608|
-|Character unlock: Purple|2612|
-|Character unlock: Van Helsing|2616|
-|Character unlock: Cyan|2620|
-|Character unlock: Lime|2624|
-|Character unlock: The Eskimo|2628|
-|Character unlock: The Round Girl|2632|
-|Character unlock: The Ninja|2636|
-|Character unlock: The Viking|2640|
-|Character unlock: The Round Boy|2644|
-|Character unlock: The Cyclops|2648|
-|Character unlock: The Robot|2652|
-|Character unlock: The Golden Monk|2656|
-|Kill count: Snakes |2660|
-|Kill count: Spiders |2664|
-|Kill count: Bats |2668|
-|Kill count: Caveman |2672|
-|Kill count: Damsels |2676|
-|Kill count: Shopkeepers |2680|
-|Kill count: (Blue) frogs |2684|
-|Kill count: Mantraps |2688|
-|Kill count: Yetis |2692|
-|Kill count: Ufos |2696|
-|Kill count: Hawk man |2700|
-|Kill count: Skeletons |2704|
-|Kill count: Piranhas |2708|
-|Kill count: Mummys |2712|
-|Kill count: Monkeys  |2716|
-|Kill count: Alien lords |2720|
-|Kill count: Ghost |2724|
-|Kill count: Giant spiders |2728|
-|Kill count: Jiang shis |2732|
-|Kill count: Vampires |2736|
-|Kill count: Fire (orange) frogs |2740|
-|Kill count: Tunnelman |2744|
-|Kill count: Old bitey |2748|
-|Kill count: Scarabs |2752|
-|Kill count: Yeti kings |2756|
-|Kill count: Aliens |2760|
-|Kill count: Magma man |2764|
-|Kill count: Vlads |2768|
-|Kill count: Scorpions |2772|
-|Kill count: Imps |2776|
-|Kill count: Devils |2780|
-|Kill count: Killer bees |2784|
-|Kill count: Anubises |2788|
-|Kill count: Queen bees |2792|
-|Kill count: Bacterium |2796|
-|Kill count: Cobra |2800|
-|Kill count: Spinner spiders |2804|
-|Kill count: Giant frogs |2808|
-|Kill count: Mammoths |2812|
-|Kill count: Alien tanks |2816|
-|Kill count: Tiki man |2820|
-|Kill count: Scorpion flys |2824|
-|Kill count: Snails |2828|
-|Kill count: Croc man |2832|
-|Kill count: Green knight |2836|
-|Kill count: Worm egg |2840|
-|Kill count: Worm babys |2844|
-|Kill count: Alien queen |2848|
-|Kill count: Black knight |2852|
-|Kill count: Golden monkeys |2856|
-|Kill count: Succubus |2860|
-|Kill count: Horse heads|2864|
-|Kill count: Ox face|2868|
-|Kill count: Anubis II|2872|
-|Kill count: Olmec|2876|
-|Kill count: King yamas|2880|
-|Death count: Snakes|2884|
-|Death count: Spiders|2888|
-|Death count: Bats|2892|
-|Death count: Caveman|2896|
-|Death count: Damsels|2900|
-|Death count: Shopkeepers|2904|
-|Death count: (blue) frogs|2908|
-|Death count: Mantraps|2912|
-|Death count: Yetis|2916|
-|Death count: Ufos|2920|
-|Death count: Hawk man|2924|
-|Death count: Skeletons|2928|
-|Death count: Piranhas|2932|
-|Death count: Mummys|2936|
-|Death count: Monkeys|2940|
-|Death count: Alien lords|2944|
-|Death count: Ghost|2948|
-|Death count: Giant spiders|2952|
-|Death count: Jiang shis|2956|
-|Death count: Vampires|2960|
-|Death count: Fire (orange) frogs|2964|
-|Death count: Tunnelman|2968|
-|Death count: Old bitey|2972|
-|Death count: Scarabs|2976|
-|Death count: Yeti kings|2980|
-|Death count: Aliens|2984|
-|Death count: Magma man|2988|
-|Death count: Vlad|2992|
-|Death count: Scorpions|2996|
-|Death count: Imps|3000|
-|Death count: Devils|3004|
-|Death count: Killer bees|3008|
-|Death count: Anubis|3012|
-|Death count: Queen bees|3016|
-|Death count: Bacteriums|3020|
-|Death count: Cobras|3024|
-|Death count: Spinner spiders|3028|
-|Death count: Giant frogs|3032|
-|Death count: Mammoths|3036|
-|Death count: Alien tanks|3040|
-|Death count: Tiki man|3044|
-|Death count: Scorpion flys|3048|
-|Death count: Snails|3052|
-|Death count: Croc man|3056|
-|Death count: Green knights|3060|
-|Death count: Worm eggs|3064|
-|Death count: Worm babys|3068|
-|Death count: Alien queens|3072|
-|Death count: Black knight|3076|
-|Death count: Golden monkeys|3080|
-|Death count: Succubi|3084|
-|Death count: Horse heads|3088|
-|Death count: Ox face|3092|
-|Death count: Anubis II|3096|
-|Death count: Olmec|3100|
-|Death count: King yamas|3104|
-|Death count: Spike|3108|
-|Death count: Arrow trap|3112|
-|Death count: Powder box|3116|
-|Death count: Boulder|3120|
-|Death count: Tiki trap|3124|
-|Death count: Acid|3128|
-|Death count: Spring|3132|
-|Death count: Mine|3136|
-|Death count: Turret|3140|
-|Death count: Forcefield|3144|
-|Death count: Crush trap|3148|
-|Death count: Ceiling trap|3152|
-|Death count: Lava|3156|
-|Death count: Spike ball|3160|
-|Music volume|3164|
-|SFX volume|3168|
-|Damsel selected|3172|
-|Screen brightness|3176|
-|Player 1 character 0 - 20|3192|
-|Player 2 character 0 - 20|3196|
-|Player 3 character 0 - 20|3200|
-|Player 4 character 0 - 20|3204|
-|Player 1 invert run|3208|
-|Player 2 invert run|3212|
-|Player 3 invert run|3216|
-|Player 4 invert run|3220|
+|Place Discovered: The Mines|1060|
+|Place Discovered: Jungle|1064|
+|Place Discovered: Ice Caves|1068|
+|Place Discovered: Temple|1072|
+|Place Discovered: Hell|1076|
+|Place Discovered: Haunted Castle|1080|
+|Place Discovered: Black Market|1084|
+|Place Discovered: Worm|1088|
+|Place Discovered: Mothership|1092|
+|Place Discovered: City of Gold|1096|
+|Monster Discovered: Snake|1316|
+|Monster Discovered: Cobra|1320|
+|Monster Discovered: Bat|1324|
+|Monster Discovered: Spider|1328|
+|Monster Discovered: Spinner Spider|1332|
+|Monster Discovered: Giant Spider|1336|
+|Monster Discovered: Skeleton|1340|
+|Monster Discovered: Scorpion|1344|
+|Monster Discovered: Caveman|1348|
+|Monster Discovered: Damsel|1352|
+|Monster Discovered: Shopkeeper|1356|
+|Monster Discovered: Tunnel Man|1360|
+|Monster Discovered: Scarab|1364|
+|Monster Discovered: Tiki Man|1368|
+|Monster Discovered: Frog|1372|
+|Monster Discovered: Fire Frog|1376|
+|Monster Discovered: Giant Frog|1380|
+|Monster Discovered: Mantrap|1384|
+|Monster Discovered: Piranha|1388|
+|Monster Discovered: Old Bitey|1392|
+|Monster Discovered: Killer Bee|1396|
+|Monster Discovered: Queen Bee|1400|
+|Monster Discovered: Snail|1404|
+|Monster Discovered: Monkey|1408|
+|Monster Discovered: Golden Monkey|1412|
+|Monster Discovered: Jiang Shi|1416|
+|Monster Discovered: Green Knight|1420|
+|Monster Discovered: Black Knight|1424|
+|Monster Discovered: Vampire|1428|
+|Monster Discovered: Ghost|1432|
+|Monster Discovered: Bacterium|1436|
+|Monster Discovered: Worm Egg|1440|
+|Monster Discovered: Worm Baby|1444|
+|Monster Discovered: Yeti|1448|
+|Monster Discovered: Yeti King|1452|
+|Monster Discovered: Mammoth|1456|
+|Monster Discovered: Alien|1460|
+|Monster Discovered: UFO|1464|
+|Monster Discovered: Alien Tank|1468|
+|Monster Discovered: Alien Lord|1472|
+|Monster Discovered: Alien Queen|1476|
+|Monster Discovered: Hawk Man|1480|
+|Monster Discovered: Croc Man|1484|
+|Monster Discovered: Magma Man|1488|
+|Monster Discovered: Scorpion Fly|1492|
+|Monster Discovered: Mummy|1496|
+|Monster Discovered: Anubis|1500|
+|Monster Discovered: Anubis II|1504|
+|Monster Discovered: Olmec|1508|
+|Monster Discovered: Vlad|1512|
+|Monster Discovered: Imp|1516|
+|Monster Discovered: Devil|1520|
+|Monster Discovered: Succubus|1524|
+|Monster Discovered: Horse Head|1528|
+|Monster Discovered: Ox Face|1532|
+|Monster Discovered: King Yama|1536|
+|Item Discovered: Rope Pile|1572|
+|Item Discovered: Bomb Bag|1576|
+|Item Discovered: Bomb Box|1580|
+|Item Discovered: Spectacles|1584|
+|Item Discovered: Climbing Gloves|1588|
+|Item Discovered: Pitcher's Mitt|1592|
+|Item Discovered: Spring Shoes|1596|
+|Item Discovered: Spike Shoes|1600|
+|Item Discovered: Paste|1604|
+|Item Discovered: Compass|1608|
+|Item Discovered: Mattock|1612|
+|Item Discovered: Boomerang|1616|
+|Item Discovered: Machete|1620|
+|Item Discovered: Crysknife|1624|
+|Item Discovered: Web Gun|1628|
+|Item Discovered: Shotgun|1632|
+|Item Discovered: Freeze Ray|1636|
+|Item Discovered: Plasma Cannon|1640|
+|Item Discovered: Camera|1644|
+|Item Discovered: Teleporter|1648|
+|Item Discovered: Parachute|1652|
+|Item Discovered: Cape|1656|
+|Item Discovered: Jetpack|1660|
+|Item Discovered: Shield|1664|
+|Item Discovered: Royal Jelly|1668|
+|Item Discovered: Idol|1672|
+|Item Discovered: Kapala|1676|
+|Item Discovered: Udjat Eye|1680|
+|Item Discovered: Ankh|1684|
+|Item Discovered: Hedjet|1688|
+|Item Discovered: Sceptre|1692|
+|Item Discovered: Book of the Dead|1696|
+|Item Discovered: Vlad's Cape|1700|
+|Item Discovered: Vlad's Amulet|1704|
+|Trap Discovered: Spikes|1828|
+|Trap Discovered: Arrow Trap|1832|
+|Trap Discovered: Powder Box|1836|
+|Trap Discovered: Boulder|1840|
+|Trap Discovered: Tiki Trap|1844|
+|Trap Discovered: Acid|1848|
+|Trap Discovered: Spring|1852|
+|Trap Discovered: Mine|1856|
+|Trap Discovered: Turret|1860|
+|Trap Discovered: Forcefield|1864|
+|Trap Discovered: Crush Trap|1868|
+|Trap Discovered: Ceiling Trap|1872|
+|Trap Discovered: Spike Ball|1876|
+|Trap Discovered: Lava|1880|
+|Character Unlocked: Yang|2596|
+|Character Unlocked: Meat Boy|2600|
+|Character Unlocked: Yellow|2604|
+|Character Unlocked: The Jungle Warrior|2608|
+|Character Unlocked: Purple|2612|
+|Character Unlocked: Van Helsing|2616|
+|Character Unlocked: Cyan|2620|
+|Character Unlocked: Lime|2624|
+|Character Unlocked: The Eskimo|2628|
+|Character Unlocked: The Round Girl|2632|
+|Character Unlocked: The Ninja|2636|
+|Character Unlocked: The Viking|2640|
+|Character Unlocked: The Round Boy|2644|
+|Character Unlocked: The Cyclops|2648|
+|Character Unlocked: The Robot|2652|
+|Character Unlocked: The Golden Monk|2656|
+|Times Killed: Snakes|2660|
+|Times Killed: Spiders|2664|
+|Times Killed: Bats|2668|
+|Times Killed: Caveman|2672|
+|Times Killed: Damsels|2676|
+|Times Killed: Shopkeepers|2680|
+|Times Killed: Frogs|2684|
+|Times Killed: Mantraps|2688|
+|Times Killed: Yetis|2692|
+|Times Killed: UFOs|2696|
+|Times Killed: Hawk Men|2700|
+|Times Killed: Skeletons|2704|
+|Times Killed: Piranhas|2708|
+|Times Killed: Mummies|2712|
+|Times Killed: Monkeys|2716|
+|Times Killed: Alien Lords|2720|
+|Times Killed: Ghost|2724|
+|Times Killed: Giant Spiders|2728|
+|Times Killed: Jiang Shis|2732|
+|Times Killed: Vampires|2736|
+|Times Killed: Fire Frogs|2740|
+|Times Killed: Tunnel Man|2744|
+|Times Killed: Old Bitey|2748|
+|Times Killed: Scarabs|2752|
+|Times Killed: Yeti Kings|2756|
+|Times Killed: Aliens|2760|
+|Times Killed: Magma Men|2764|
+|Times Killed: Vlad|2768|
+|Times Killed: Scorpions|2772|
+|Times Killed: Imps|2776|
+|Times Killed: Devils|2780|
+|Times Killed: Killer Bees|2784|
+|Times Killed: Anubis|2788|
+|Times Killed: Queen Bees|2792|
+|Times Killed: Bacteria|2796|
+|Times Killed: Cobras|2800|
+|Times Killed: Spinner Spiders|2804|
+|Times Killed: Giant Frogs|2808|
+|Times Killed: Mammoths|2812|
+|Times Killed: Alien Tanks|2816|
+|Times Killed: Tiki Men|2820|
+|Times Killed: Scorpion Flies|2824|
+|Times Killed: Snails|2828|
+|Times Killed: Croc Men|2832|
+|Times Killed: Green Knights|2836|
+|Times Killed: Worm Eggs|2840|
+|Times Killed: Worm Babies|2844|
+|Times Killed: Alien Queen|2848|
+|Times Killed: Black Knight|2852|
+|Times Killed: Golden Monkeys|2856|
+|Times Killed: Succubus|2860|
+|Times Killed: Horse Head|2864|
+|Times Killed: Ox Face|2868|
+|Times Killed: Anubis II|2872|
+|Times Killed: Olmec|2876|
+|Times Killed: King Yama|2880|
+|Times Killed By: Snakes|2884|
+|Times Killed By: Spiders|2888|
+|Times Killed By: Bats|2892|
+|Times Killed By: Cavemen|2896|
+|Times Killed By: Damsels|2900|
+|Times Killed By: Shopkeepers|2904|
+|Times Killed By: Frogs|2908|
+|Times Killed By: Mantraps|2912|
+|Times Killed By: Yetis|2916|
+|Times Killed By: UFOs|2920|
+|Times Killed By: Hawk Men|2924|
+|Times Killed By: Skeletons|2928|
+|Times Killed By: Piranhas|2932|
+|Times Killed By: Mummies|2936|
+|Times Killed By: Monkeys|2940|
+|Times Killed By: Alien Lords|2944|
+|Times Killed By: Ghost|2948|
+|Times Killed By: Giant Spiders|2952|
+|Times Killed By: Jiang Shis|2956|
+|Times Killed By: Vampires|2960|
+|Times Killed By: Fire Frogs|2964|
+|Times Killed By: Tunnel Man|2968|
+|Times Killed By: Old Bitey|2972|
+|Times Killed By: Scarabs|2976|
+|Times Killed By: Yeti Kings|2980|
+|Times Killed By: Aliens|2984|
+|Times Killed By: Magma Men|2988|
+|Times Killed By: Vlad|2992|
+|Times Killed By: Scorpions|2996|
+|Times Killed By: Imps|3000|
+|Times Killed By: Devils|3004|
+|Times Killed By: Killer Bees|3008|
+|Times Killed By: Anubis|3012|
+|Times Killed By: Queen Bees|3016|
+|Times Killed By: Bacteria|3020|
+|Times Killed By: Cobras|3024|
+|Times Killed By: Spinner Spiders|3028|
+|Times Killed By: Giant Frogs|3032|
+|Times Killed By: Mammoths|3036|
+|Times Killed By: Alien Tanks|3040|
+|Times Killed By: Tiki Men|3044|
+|Times Killed By: Scorpion Flies|3048|
+|Times Killed By: Snails|3052|
+|Times Killed By: Croc Men|3056|
+|Times Killed By: Green Knights|3060|
+|Times Killed By: Worm Eggs|3064|
+|Times Killed By: Worm Babies|3068|
+|Times Killed By: Alien Queen|3072|
+|Times Killed By: Black Knight|3076|
+|Times Killed By: Golden Monkeys|3080|
+|Times Killed By: Succubi|3084|
+|Times Killed By: Horse Head|3088|
+|Times Killed By: Ox Face|3092|
+|Times Killed By: Anubis II|3096|
+|Times Killed By: Olmec|3100|
+|Times Killed By: King Yama|3104|
+|Times Killed By: Spikes|3108|
+|Times Killed By: Arrow Traps|3112|
+|Times Killed By: Powder Boxes|3116|
+|Times Killed By: Boulders|3120|
+|Times Killed By: Tiki Traps|3124|
+|Times Killed By: Acids|3128|
+|Times Killed By: Springs|3132|
+|Times Killed By: Mines|3136|
+|Times Killed By: Turrets|3140|
+|Times Killed By: Forcefields|3144|
+|Times Killed By: Crush Traps|3148|
+|Times Killed By: Ceiling Traps|3152|
+|Times Killed By: Lava|3156|
+|Times Killed By: Spike Balls|3160|
 
-Note also that values in the save file are stored "Little-Endian", meaning that the hexadecimal value `100a0702` is represented as `02070a10` (see that the order of the bytes is reversed). The program must account for this.
+Note also that values in the save file are stored "Little-Endian", meaning that the hexadecimal value `100a0702` is represented as `02070a10` (see that the order of the bytes is reversed). The program must acCount for this.
+
+### Acknowledgments
+
+The hard work of figuring out the guts of the Spelunky save file was done by @dextercd for his [Spelunky Save Editor](https://github.com/dextercd/spelunky_save_editor3). Thank you, Dexter!
