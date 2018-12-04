@@ -59,8 +59,9 @@ public class SpelunkySaveFile {
 
     /** A simple demo. */
     public static void main(String[] argv) throws IOException {
-        SpelunkySaveFile s = new SpelunkySaveFile("C:\\Program Files (x86)\\Steam\\SteamApps\\"
-                                                + "common\\Spelunky\\Data\\spelunky_save.sav");
+        // SpelunkySaveFile s = new SpelunkySaveFile("C:\\Program Files (x86)\\Steam\\SteamApps\\"
+        //                                         + "common\\Spelunky\\Data\\spelunky_save.sav");
+        SpelunkySaveFile s = new SpelunkySaveFile("spelunky_save.sav");
         if (argv.length > 1) {
             int bytePosition = Integer.parseInt(argv[0]);
             int value = Integer.parseInt(argv[1]);

@@ -145,57 +145,57 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Character Unlocked: The Cyclops|2648|
 |Character Unlocked: The Robot|2652|
 |Character Unlocked: The Golden Monk|2656|
-|Times Killed: Snakes|2660|
-|Times Killed: Spiders|2664|
-|Times Killed: Bats|2668|
-|Times Killed: Caveman|2672|
-|Times Killed: Damsels|2676|
-|Times Killed: Shopkeepers|2680|
-|Times Killed: Frogs|2684|
-|Times Killed: Mantraps|2688|
-|Times Killed: Yetis|2692|
-|Times Killed: UFOs|2696|
-|Times Killed: Hawk Men|2700|
-|Times Killed: Skeletons|2704|
-|Times Killed: Piranhas|2708|
-|Times Killed: Mummies|2712|
-|Times Killed: Monkeys|2716|
-|Times Killed: Alien Lords|2720|
-|Times Killed: Ghost|2724|
-|Times Killed: Giant Spiders|2728|
-|Times Killed: Jiang Shis|2732|
-|Times Killed: Vampires|2736|
-|Times Killed: Fire Frogs|2740|
+|Number Killed: Snakes|2660|
+|Number Killed: Spiders|2664|
+|Number Killed: Bats|2668|
+|Number Killed: Cavemen|2672|
+|Number Killed: Damsels|2676|
+|Number Killed: Shopkeepers|2680|
+|Number Killed: Frogs|2684|
+|Number Killed: Mantraps|2688|
+|Number Killed: Yetis|2692|
+|Number Killed: UFOs|2696|
+|Number Killed: Hawk Men|2700|
+|Number Killed: Skeletons|2704|
+|Number Killed: Piranhas|2708|
+|Number Killed: Mummies|2712|
+|Number Killed: Monkeys|2716|
+|Number Killed: Alien Lords|2720|
+|Number Killed: Ghost|2724|
+|Number Killed: Giant Spiders|2728|
+|Number Killed: Jiang Shis|2732|
+|Number Killed: Vampires|2736|
+|Number Killed: Fire Frogs|2740|
 |Times Killed: Tunnel Man|2744|
 |Times Killed: Old Bitey|2748|
-|Times Killed: Scarabs|2752|
-|Times Killed: Yeti Kings|2756|
-|Times Killed: Aliens|2760|
-|Times Killed: Magma Men|2764|
-|Times Killed: Vlad|2768|
-|Times Killed: Scorpions|2772|
-|Times Killed: Imps|2776|
-|Times Killed: Devils|2780|
-|Times Killed: Killer Bees|2784|
-|Times Killed: Anubis|2788|
-|Times Killed: Queen Bees|2792|
-|Times Killed: Bacteria|2796|
-|Times Killed: Cobras|2800|
-|Times Killed: Spinner Spiders|2804|
-|Times Killed: Giant Frogs|2808|
-|Times Killed: Mammoths|2812|
-|Times Killed: Alien Tanks|2816|
-|Times Killed: Tiki Men|2820|
-|Times Killed: Scorpion Flies|2824|
-|Times Killed: Snails|2828|
-|Times Killed: Croc Men|2832|
-|Times Killed: Green Knights|2836|
-|Times Killed: Worm Eggs|2840|
-|Times Killed: Worm Babies|2844|
+|Number Killed: Scarabs|2752|
+|Number Killed: Yeti Kings|2756|
+|Number Killed: Aliens|2760|
+|Number Killed: Magma Men|2764|
+|Number Killed: Vlad|2768|
+|Number Killed: Scorpions|2772|
+|Number Killed: Imps|2776|
+|Number Killed: Devils|2780|
+|Number Killed: Killer Bees|2784|
+|Number Killed: Anubis|2788|
+|Number Killed: Queen Bees|2792|
+|Number Killed: Bacteria|2796|
+|Number Killed: Cobras|2800|
+|Number Killed: Spinner Spiders|2804|
+|Number Killed: Giant Frogs|2808|
+|Number Killed: Mammoths|2812|
+|Number Killed: Alien Tanks|2816|
+|Number Killed: Tiki Men|2820|
+|Number Killed: Scorpion Flies|2824|
+|Number Killed: Snails|2828|
+|Number Killed: Croc Men|2832|
+|Number Killed: Green Knights|2836|
+|Number Killed: Worm Eggs|2840|
+|Number Killed: Worm Babies|2844|
 |Times Killed: Alien Queen|2848|
 |Times Killed: Black Knight|2852|
-|Times Killed: Golden Monkeys|2856|
-|Times Killed: Succubus|2860|
+|Number Killed: Golden Monkeys|2856|
+|Number Killed: Succubus|2860|
 |Times Killed: Horse Head|2864|
 |Times Killed: Ox Face|2868|
 |Times Killed: Anubis II|2872|
@@ -272,8 +272,8 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Times Killed By: Lava|3156|
 |Times Killed By: Spike Balls|3160|
 
-Note also that values in the save file are stored "Little-Endian", meaning that the hexadecimal value `100a0702` is represented as `02070a10` (see that the order of the bytes is reversed). The program must acCount for this.
+Note also that values in the save file are stored "Little-Endian", meaning that the hexadecimal value `100a0702` is represented as `02070a10` (see that the order of the bytes is reversed).
 
 ### Acknowledgments
 
-The hard work of figuring out the guts of the Spelunky save file was done by @dextercd for his [Spelunky Save Editor](https://github.com/dextercd/spelunky_save_editor3). Thank you, Dexter!
+The hard work of figuring out the guts of the Spelunky save file was done by [Dexter Döpping](https://github.com/dextercd) for his [Spelunky Save Editor](https://github.com/dextercd/spelunky_save_editor3). Thank you, Dexter!
