@@ -161,7 +161,7 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Number Killed: Mummies|2712|
 |Number Killed: Monkeys|2716|
 |Number Killed: Alien Lords|2720|
-|Number Killed: Ghost|2724|
+|Times Killed: Ghost|2724|
 |Number Killed: Giant Spiders|2728|
 |Number Killed: Jiang Shis|2732|
 |Number Killed: Vampires|2736|
@@ -262,7 +262,7 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Times Killed By: Powder Boxes|3116|
 |Times Killed By: Boulders|3120|
 |Times Killed By: Tiki Traps|3124|
-|Times Killed By: Acids|3128|
+|Times Killed By: Acid|3128|
 |Times Killed By: Springs|3132|
 |Times Killed By: Mines|3136|
 |Times Killed By: Turrets|3140|
