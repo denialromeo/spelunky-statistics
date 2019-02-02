@@ -62,14 +62,14 @@ public class SpelunkySaveFile {
         // SpelunkySaveFile s = new SpelunkySaveFile("C:\\Program Files (x86)\\Steam\\SteamApps\\"
         //                                         + "common\\Spelunky\\Data\\spelunky_save.sav");
         SpelunkySaveFile s = new SpelunkySaveFile("spelunky_save.sav");
-        if (argv.length > 1) {
-            int bytePosition = Integer.parseInt(argv[0]);
-            int value = Integer.parseInt(argv[1]);
-            s.writeInt(bytePosition, value);
-        }
-        else if (argv.length == 1) {
-            int bytePosition = Integer.parseInt(argv[0]);
+        if (argv.length == 1) {
+            int bytePosition = new Integer(argv[0]);
             System.out.println(s.readInt(bytePosition));
+        }
+        else if (argv.length > 1) {
+            int bytePosition = new Integer(argv[0]);
+            int value = new Integer(argv[1]);
+            s.writeInt(bytePosition, value);
         }
         s.close();
     }

@@ -172,7 +172,7 @@ If we treat the save file as a byte array, here's the index where each value of 
 |Number Killed: Yeti Kings|2756|
 |Number Killed: Aliens|2760|
 |Number Killed: Magma Men|2764|
-|Number Killed: Vlad|2768|
+|Times Killed: Vlad|2768|
 |Number Killed: Scorpions|2772|
 |Number Killed: Imps|2776|
 |Number Killed: Devils|2780|
